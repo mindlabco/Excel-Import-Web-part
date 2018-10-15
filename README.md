@@ -19,4 +19,4 @@ To use the web part follow the below steps:-
 
 Below Screenshot is the output of this web part
 
-![Image of Yaktocat](https://github.com/mindlabco/Excel-Import-Web-part/blob/master/Excel-Import.png)
+![Image of web part](https://github.com/mindlabco/Excel-Import-Web-part/blob/master/Excel-Import.png)
