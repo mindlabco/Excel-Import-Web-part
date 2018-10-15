@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "import-excel-webpart",
+    "libraryId": "577e4917-3127-4a28-8670-c09bc09c1ded",
+    "environment": "spo"
+  }
+}

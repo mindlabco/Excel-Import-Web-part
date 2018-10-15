@@ -1,0 +1,23 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "import-excel-webpart-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/importExcelWebpart/ImportExcelWebpartWebPart.js",
+          "manifest": "./src/webparts/importExcelWebpart/ImportExcelWebpartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "jquery": "https://code.jquery.com/jquery-3.2.1.min.js",
+    "bootstrap": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js",
+    "bluebird": "https://cdn.jsdelivr.net/bluebird/3.5.0/bluebird.min.js",
+    "fetch": "https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.js"
+ },
+  "localizedResources": {
+    "ImportExcelWebpartWebPartStrings": "lib/webparts/importExcelWebpart/loc/{locale}.js"
+  }
+}

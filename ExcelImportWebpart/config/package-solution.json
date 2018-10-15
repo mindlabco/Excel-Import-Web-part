@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "import-excel-webpart-client-side-solution",
+    "id": "577e4917-3127-4a28-8670-c09bc09c1ded",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false
+  },
+  "paths": {
+    "zippedPackage": "solution/import-excel-webpart.sppkg"
+  }
+}
